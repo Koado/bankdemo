@@ -19,7 +19,7 @@ contentType="text/html; charset=UTF-8"%>
 	
 	<div class="main">
 	<img style="margin:50px;" src="images/small_bank.png"><br>
-		<div class="linkbox"><a href="offices.jsp">--ECLIPSE--</a></div>
+		<div class="linkbox"><a href="offices.jsp">--HELLO--</a></div>
 	</div>
 	
 </body>
